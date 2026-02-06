@@ -1,7 +1,7 @@
 # Text Classification Project using Machine Learning
 
-This project focuses on building a **text classification system** using **Natural Language Processing (NLP)** and **Machine Learning** techniques.  
-The goal is to classify text data into predefined categories and evaluate the model’s performance using standard metrics.
+- This project focuses on building a **text classification system** using **Natural Language Processing (NLP)** and **Machine Learning** techniques.  
+- The goal is to classify text data into predefined categories and evaluate the model’s performance using standard metrics.
 
 ---
 
